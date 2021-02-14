@@ -1,4 +1,4 @@
-from instascrape import *
+mmmkkfrom instascrape import *
 
 google_post = Post('https://www.instagram.com/p/CJmnZgqnnE_/')
 
